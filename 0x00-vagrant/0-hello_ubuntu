@@ -1,1 +1,1 @@
-"linux"
+uname > uname_output.txt
